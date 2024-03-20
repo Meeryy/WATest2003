@@ -1,0 +1,14 @@
+.p1{
+    display: flex;
+    justify-content: center;
+}
+
+.animals{
+display: flex;
+justify-content: center;
+
+}
+
+html{
+    background-color: bisque;
+}
