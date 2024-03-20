@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<button onclick="window.location.href = 'animal-list.php'">View Planned Animal List</button>
+<button class="" onclick="window.location.href = 'animal-list.php'">View Planned Animal List</button>
 <button onclick="window.location.href = 'current.php'">View Current Animal List</button>
 
 </body>

@@ -13,6 +13,7 @@
 
 <h1 class = "h1">Current animals  <h1>
 
+<div class ="animals">
 <div id="carouselExampleFade" class="carousel slide carousel-fade">
   <div class="carousel-inner">
     <div class="carousel-item active">
