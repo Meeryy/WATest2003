@@ -2,3 +2,5 @@ Options +FollowSymLinks
 RewriteEngine On
 
 RewriteRule ^animal-list$ animal-list.php [L]
+RewriteRule ^current-animals $ current.php [L]
+
